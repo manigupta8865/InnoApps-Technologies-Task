@@ -18,8 +18,8 @@ function App() {
             <div className='header-links'>
               <Link to=''>About</Link>
               <Link to=''>Contact Us</Link>
-              <Link to="/signin">SignIn</Link>
-              <Link to="/register">LogIn</Link>
+              <Link to="/signin">LogIn</Link>
+              <Link to="/register">SignIn</Link>
             </div>
           </div>
         </header>
