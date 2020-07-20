@@ -16,6 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "prebuild": "echo $REACT_APP_WEATHER_KEY",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
