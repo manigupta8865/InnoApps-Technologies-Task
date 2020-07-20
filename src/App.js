@@ -11,10 +11,16 @@ function App() {
  <div className='grid-container'>
         <header>
           <div className="header">
-            <div className='brand'>
-  <Link to="/">aInnoApps Technologies</Link>
-            </div>
-
+              <div className='brand'>
+                  <Link to="/">aInnoApps Technologies</Link>
+              
+              </div>
+              <div className="Header-Img">
+                <Link to="/">
+                    <img src="https://aperfectspace.com/images/new-home-logo-black.png"></img>
+                </Link>
+                </div>
+      
             <div className='header-links'>
               <Link to=''>About</Link>
               <Link to=''>Contact Us</Link>

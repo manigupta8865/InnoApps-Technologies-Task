@@ -32,7 +32,7 @@ const HomeScreen=()=>{
         return( loading?<h1>....loading</h1>:
          <div>  
              <div className="SearchInputContainer">
-                 <input type="text"placeholder="Search"className="SearchInput"/>
+                 <input type="text"placeholder="Search"/>
              </div> 
         <ui className="Products">
                      
