@@ -17,7 +17,7 @@ function App() {
               </div>
               <div className="Header-Img">
                 <Link to="/">
-                    <img src="https://aperfectspace.com/images/new-home-logo-black.png"></img>
+                    <img src="https://aperfectspace.com/images/new-home-logo-black.png"alt="Logo"></img>
                 </Link>
                 </div>
       
